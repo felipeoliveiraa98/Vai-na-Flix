@@ -1,0 +1,17 @@
+footer{
+    background-color: lightseagreen;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 6vh;
+    
+
+    ul{
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+        width: 30vw;
+    }
+}
+
